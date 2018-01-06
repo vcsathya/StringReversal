@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">StringReversal</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="title">String Reversal</string>
+    <string name="first_name_hint">Enter the first name</string>
+    <string name="last_name_hint">Enter the last name</string>
+    <string name="reversed_first_name_hint">Reversed first name appears here</string>
+    <string name="reversed_last_name_hint">Reversed last name appears here</string>
+    <string name="first_name_error">First name is mandatory*</string>
+    <string name="last_name_error">Last name is mandatory*</string>
+    <string name="special_chars_error">Special characters are not allowed*</string>
+    <string name="action_settings">Settings</string>
+</resources>
